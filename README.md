@@ -1,12 +1,12 @@
 <img width="1024" height="1024" alt="Ubuntu 24 04 3 LTS" src="https://github.com/user-attachments/assets/3e808659-49a7-4577-8e44-d17cd670f3ec" />
 
-Torrent download link :
-
-https://www.shopcom.tn/product/ubuntu-24-04-3-lts/torrent-download
-
 Download link :
 
 https://www.shopcom.tn/product/ubuntu-24-04-3-lts/download
+
+Torrent download link :
+
+https://www.shopcom.tn/product/ubuntu-24-04-3-lts/torrent-download
 
 Product Price : Free
 
