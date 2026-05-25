@@ -10,6 +10,12 @@ https://www.shopcom.tn/product/ubuntu-24-04-3-lts/torrent-download
 
 Product Price : Free
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 Ubuntu 24.04.3 LTS (Noble Numbat) is the third point release of a long-term support (LTS) version, representing the most stable, secure, and hardware-compatible iteration of this 2024 flagship distribution. As an LTS, it is guaranteed to receive free security updates and maintenance until April 2034, making it the premier choice for enterprises, developers, and users seeking a dependable Linux foundation.
